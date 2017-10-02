@@ -1,0 +1,31 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 120px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
+
+.display-4 {
+    color: white;
+}
+
+.header-bar {
+    background-color: #563d7c;
+    padding: 30px 0;
+    margin-bottom: 50px;
+}
+
+.lead {
+    color: #cdbfe3;
+}
